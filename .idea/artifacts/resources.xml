@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="resources">
+    <output-path>$PROJECT_DIR$/out/artifacts/reversi_jar</output-path>
+    <root id="root">
+      <element id="directory" name="resources">
+        <element id="dir-copy" path="$PROJECT_DIR$/src/resources/resources" />
+      </element>
+    </root>
+  </artifact>
+</component>
